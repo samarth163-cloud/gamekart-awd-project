@@ -1,0 +1,61 @@
+:root {
+  /* GameKart Theme - Clean Premium Purple/Violet Gaming UI (White Background) */
+  --theme-bg: #FFFFFF;
+  --theme-bg-start: #FFFFFF;
+  --theme-surface: #FCF8FF;
+  --theme-surface-soft: #F6EBFF;
+  --theme-surface-elevated: #FCF8FF;
+  --theme-primary: #CE5CFF;
+  --theme-primary-dark: #B838EE;
+  --theme-secondary: #CE5CFF;
+  --theme-accent: #CE5CFF;
+  --theme-light-pink: #F6EBFF;
+  --theme-ink: #17121A;
+  --theme-text: #665A68;
+  --theme-muted: #665A68;
+  --theme-border: #E5C7F7;
+  --theme-border-accent: #CE5CFF;
+  --theme-danger: #DC2626;
+  --theme-footer: #FCF8FF;
+  --theme-footer-text: #665A68;
+  --theme-footer-muted: #8E7F91;
+  --theme-sidebar: #FCF8FF;
+  --theme-sidebar-dark: #FFFFFF;
+  --theme-sidebar-text: #17121A;
+  --theme-sidebar-muted: #665A68;
+  --theme-table-header: #F6EBFF;
+  --theme-detail-surface: #FCF8FF;
+  --theme-hero-warm: #FCF8FF;
+  --theme-white: #FFFFFF;
+
+  --theme-primary-rgb: 206, 92, 255;
+  --theme-primary-dark-rgb: 184, 56, 238;
+  --theme-ink-rgb: 23, 18, 26;
+  --theme-border-rgb: 229, 199, 247;
+  --theme-danger-rgb: 220, 38, 38;
+  --theme-white-rgb: 255, 255, 255;
+
+  /* No glow, clean flat styling */
+  --theme-shadow-soft: none;
+  --theme-shadow-card: none;
+  --theme-shadow-hover: none;
+  --theme-shadow-admin: none;
+
+  --color-bg: var(--theme-bg);
+  --color-surface: var(--theme-surface);
+  --color-surface-soft: var(--theme-surface-soft);
+  --color-primary: var(--theme-primary);
+  --color-primary-dark: var(--theme-primary-dark);
+  --color-accent: var(--theme-accent);
+  --color-ink: var(--theme-ink);
+  --color-text: var(--theme-text);
+  --color-muted: var(--theme-muted);
+  --color-border: var(--theme-border);
+  --color-danger: var(--theme-danger);
+  --shadow-soft: none;
+  --shadow-card: none;
+
+  --font-display: "Rajdhani", "Space Grotesk", sans-serif;
+  --font-logo: "Orbitron", sans-serif;
+  --font-body: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
